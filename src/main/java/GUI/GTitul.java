@@ -27,7 +27,7 @@ public class GTitul extends javax.swing.JFrame {
         setBounds(new java.awt.Rectangle(500, 200, 0, 0));
         setResizable(false);
 
-        UserNameLabel.setText("Имя пользователя");
+        UserNameLabel.setText("Имя пользовате ля");
         PasswordLabel.setText("Пароль");
 
         PasswordTextField.addKeyListener(new java.awt.event.KeyAdapter() {
