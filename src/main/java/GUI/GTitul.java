@@ -2,7 +2,7 @@ package GUI;
 
 import java.awt.*;
 
-/**
+/** KFKFKKF
  * Created by Юлия on 13.04.2017.
  */
 public class GTitul extends javax.swing.JFrame {
